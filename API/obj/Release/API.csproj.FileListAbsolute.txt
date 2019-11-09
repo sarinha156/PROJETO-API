@@ -1,0 +1,336 @@
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\API.dll.config
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\API.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\API.pdb
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\csc.exe
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\csc.exe.config
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\csc.rsp
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\csi.exe
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\csi.exe.config
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\csi.rsp
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.AppContext.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Collections.Immutable.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Console.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.Compression.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.FileSystem.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.Pipes.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.AccessControl.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Claims.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.ValueTuple.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.XPath.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\vbc.exe
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\vbc.exe.config
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\vbc.rsp
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\VBCSCompiler.exe
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\roslyn\VBCSCompiler.exe.config
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Antlr3.Runtime.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Library.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Microsoft.Web.Infrastructure.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Newtonsoft.Json.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Net.Http.Formatting.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Helpers.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Http.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Http.WebHost.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Mvc.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Optimization.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Razor.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Deployment.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Razor.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\WebGrease.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Library.pdb
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Newtonsoft.Json.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Net.Http.Formatting.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Helpers.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Http.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Http.WebHost.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Mvc.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Optimization.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.Razor.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Deployment.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Razor.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Antlr3.Runtime.pdb
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\obj\Release\API.csprojAssemblyReference.cache
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\obj\Release\API.csproj.CoreCompileInputs.cache
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\obj\Release\API.csproj.CopyComplete
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\obj\Release\API.dll
+D:\Materias\DS\AULA 15 - API\ProjetoFeira\API\obj\Release\API.pdb
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\API.dll.config
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\API.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\API.pdb
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\csc.exe
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\csc.exe.config
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\csc.rsp
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\csi.exe
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\csi.exe.config
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\csi.rsp
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.AppContext.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Collections.Immutable.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Console.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.Compression.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.FileSystem.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.IO.Pipes.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Reflection.Metadata.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.AccessControl.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Claims.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Security.Principal.Windows.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.ValueTuple.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.XPath.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\vbc.exe
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\vbc.exe.config
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\vbc.rsp
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\VBCSCompiler.exe
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\roslyn\VBCSCompiler.exe.config
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Antlr3.Runtime.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Library.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Microsoft.Web.Infrastructure.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Newtonsoft.Json.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Net.Http.Formatting.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Helpers.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Http.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Http.WebHost.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Mvc.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Optimization.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Razor.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Deployment.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Razor.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\WebGrease.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Library.pdb
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Newtonsoft.Json.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Net.Http.Formatting.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Helpers.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Http.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Http.WebHost.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Mvc.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Optimization.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.Razor.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Deployment.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\System.Web.WebPages.Razor.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Antlr3.Runtime.pdb
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\obj\Release\API.csprojAssemblyReference.cache
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\obj\Release\API.csproj.CoreCompileInputs.cache
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\obj\Release\API.csproj.CopyComplete
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\obj\Release\API.dll
+F:\2º Módulo Materias\DESENVOLVIMENTO DE SISTEMAS\Aula 15 - API\ProjetoFeira\API\obj\Release\API.pdb
+D:\ProjetoFeira\API\bin\API.dll.config
+D:\ProjetoFeira\API\bin\API.dll
+D:\ProjetoFeira\API\bin\API.pdb
+D:\ProjetoFeira\API\bin\roslyn\csc.exe
+D:\ProjetoFeira\API\bin\roslyn\csc.exe.config
+D:\ProjetoFeira\API\bin\roslyn\csc.rsp
+D:\ProjetoFeira\API\bin\roslyn\csi.exe
+D:\ProjetoFeira\API\bin\roslyn\csi.exe.config
+D:\ProjetoFeira\API\bin\roslyn\csi.rsp
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ProjetoFeira\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProjetoFeira\API\bin\roslyn\System.AppContext.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Collections.Immutable.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Console.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ProjetoFeira\API\bin\roslyn\System.IO.Compression.dll
+D:\ProjetoFeira\API\bin\roslyn\System.IO.FileSystem.dll
+D:\ProjetoFeira\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ProjetoFeira\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ProjetoFeira\API\bin\roslyn\System.IO.Pipes.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Security.AccessControl.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Security.Claims.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ProjetoFeira\API\bin\roslyn\System.ValueTuple.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Xml.XPath.dll
+D:\ProjetoFeira\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ProjetoFeira\API\bin\roslyn\vbc.exe
+D:\ProjetoFeira\API\bin\roslyn\vbc.exe.config
+D:\ProjetoFeira\API\bin\roslyn\vbc.rsp
+D:\ProjetoFeira\API\bin\roslyn\VBCSCompiler.exe
+D:\ProjetoFeira\API\bin\roslyn\VBCSCompiler.exe.config
+D:\ProjetoFeira\API\bin\Antlr3.Runtime.dll
+D:\ProjetoFeira\API\bin\Library.dll
+D:\ProjetoFeira\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjetoFeira\API\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjetoFeira\API\bin\Newtonsoft.Json.dll
+D:\ProjetoFeira\API\bin\System.Net.Http.Formatting.dll
+D:\ProjetoFeira\API\bin\System.Web.Helpers.dll
+D:\ProjetoFeira\API\bin\System.Web.Http.dll
+D:\ProjetoFeira\API\bin\System.Web.Http.WebHost.dll
+D:\ProjetoFeira\API\bin\System.Web.Mvc.dll
+D:\ProjetoFeira\API\bin\System.Web.Optimization.dll
+D:\ProjetoFeira\API\bin\System.Web.Razor.dll
+D:\ProjetoFeira\API\bin\System.Web.WebPages.Deployment.dll
+D:\ProjetoFeira\API\bin\System.Web.WebPages.dll
+D:\ProjetoFeira\API\bin\System.Web.WebPages.Razor.dll
+D:\ProjetoFeira\API\bin\WebGrease.dll
+D:\ProjetoFeira\API\bin\Library.pdb
+D:\ProjetoFeira\API\bin\Newtonsoft.Json.xml
+D:\ProjetoFeira\API\bin\System.Net.Http.Formatting.xml
+D:\ProjetoFeira\API\bin\System.Web.Helpers.xml
+D:\ProjetoFeira\API\bin\System.Web.Http.xml
+D:\ProjetoFeira\API\bin\System.Web.Http.WebHost.xml
+D:\ProjetoFeira\API\bin\System.Web.Mvc.xml
+D:\ProjetoFeira\API\bin\System.Web.Optimization.xml
+D:\ProjetoFeira\API\bin\System.Web.Razor.xml
+D:\ProjetoFeira\API\bin\System.Web.WebPages.xml
+D:\ProjetoFeira\API\bin\System.Web.WebPages.Deployment.xml
+D:\ProjetoFeira\API\bin\System.Web.WebPages.Razor.xml
+D:\ProjetoFeira\API\bin\Antlr3.Runtime.pdb
+D:\ProjetoFeira\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjetoFeira\API\obj\Release\API.csprojAssemblyReference.cache
+D:\ProjetoFeira\API\obj\Release\API.csproj.CoreCompileInputs.cache
+D:\ProjetoFeira\API\obj\Release\API.csproj.CopyComplete
+D:\ProjetoFeira\API\obj\Release\API.dll
+D:\ProjetoFeira\API\obj\Release\API.pdb
+D:\sarah\API--master\API\bin\API.dll.config
+D:\sarah\API--master\API\bin\API.dll
+D:\sarah\API--master\API\bin\API.pdb
+D:\sarah\API--master\API\bin\roslyn\csc.exe
+D:\sarah\API--master\API\bin\roslyn\csc.exe.config
+D:\sarah\API--master\API\bin\roslyn\csc.rsp
+D:\sarah\API--master\API\bin\roslyn\csi.exe
+D:\sarah\API--master\API\bin\roslyn\csi.exe.config
+D:\sarah\API--master\API\bin\roslyn\csi.rsp
+D:\sarah\API--master\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sarah\API--master\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sarah\API--master\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sarah\API--master\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sarah\API--master\API\bin\roslyn\System.AppContext.dll
+D:\sarah\API--master\API\bin\roslyn\System.Collections.Immutable.dll
+D:\sarah\API--master\API\bin\roslyn\System.Console.dll
+D:\sarah\API--master\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sarah\API--master\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sarah\API--master\API\bin\roslyn\System.IO.Compression.dll
+D:\sarah\API--master\API\bin\roslyn\System.IO.FileSystem.dll
+D:\sarah\API--master\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sarah\API--master\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\sarah\API--master\API\bin\roslyn\System.IO.Pipes.dll
+D:\sarah\API--master\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\sarah\API--master\API\bin\roslyn\System.Security.AccessControl.dll
+D:\sarah\API--master\API\bin\roslyn\System.Security.Claims.dll
+D:\sarah\API--master\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sarah\API--master\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sarah\API--master\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sarah\API--master\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sarah\API--master\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\sarah\API--master\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sarah\API--master\API\bin\roslyn\System.ValueTuple.dll
+D:\sarah\API--master\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sarah\API--master\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sarah\API--master\API\bin\roslyn\System.Xml.XPath.dll
+D:\sarah\API--master\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sarah\API--master\API\bin\roslyn\vbc.exe
+D:\sarah\API--master\API\bin\roslyn\vbc.exe.config
+D:\sarah\API--master\API\bin\roslyn\vbc.rsp
+D:\sarah\API--master\API\bin\roslyn\VBCSCompiler.exe
+D:\sarah\API--master\API\bin\roslyn\VBCSCompiler.exe.config
+D:\sarah\API--master\API\bin\Antlr3.Runtime.dll
+D:\sarah\API--master\API\bin\Library.dll
+D:\sarah\API--master\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sarah\API--master\API\bin\Microsoft.Web.Infrastructure.dll
+D:\sarah\API--master\API\bin\Newtonsoft.Json.dll
+D:\sarah\API--master\API\bin\System.Net.Http.Formatting.dll
+D:\sarah\API--master\API\bin\System.Web.Helpers.dll
+D:\sarah\API--master\API\bin\System.Web.Http.dll
+D:\sarah\API--master\API\bin\System.Web.Http.WebHost.dll
+D:\sarah\API--master\API\bin\System.Web.Mvc.dll
+D:\sarah\API--master\API\bin\System.Web.Optimization.dll
+D:\sarah\API--master\API\bin\System.Web.Razor.dll
+D:\sarah\API--master\API\bin\System.Web.WebPages.Deployment.dll
+D:\sarah\API--master\API\bin\System.Web.WebPages.dll
+D:\sarah\API--master\API\bin\System.Web.WebPages.Razor.dll
+D:\sarah\API--master\API\bin\WebGrease.dll
+D:\sarah\API--master\API\bin\Library.pdb
+D:\sarah\API--master\API\bin\Newtonsoft.Json.xml
+D:\sarah\API--master\API\bin\System.Net.Http.Formatting.xml
+D:\sarah\API--master\API\bin\System.Web.Helpers.xml
+D:\sarah\API--master\API\bin\System.Web.Http.xml
+D:\sarah\API--master\API\bin\System.Web.Http.WebHost.xml
+D:\sarah\API--master\API\bin\System.Web.Mvc.xml
+D:\sarah\API--master\API\bin\System.Web.Optimization.xml
+D:\sarah\API--master\API\bin\System.Web.Razor.xml
+D:\sarah\API--master\API\bin\System.Web.WebPages.xml
+D:\sarah\API--master\API\bin\System.Web.WebPages.Deployment.xml
+D:\sarah\API--master\API\bin\System.Web.WebPages.Razor.xml
+D:\sarah\API--master\API\bin\Antlr3.Runtime.pdb
+D:\sarah\API--master\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sarah\API--master\API\obj\Release\API.csprojAssemblyReference.cache
+D:\sarah\API--master\API\obj\Release\API.csproj.CoreCompileInputs.cache
+D:\sarah\API--master\API\obj\Release\API.csproj.CopyComplete
+D:\sarah\API--master\API\obj\Release\API.dll
+D:\sarah\API--master\API\obj\Release\API.pdb
